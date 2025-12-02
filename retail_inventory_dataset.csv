@@ -1,0 +1,81 @@
+product_id,category,store_id,supplier_id,current_season,unit_price,shelf_life_days,avg_daily_sales,current_stock,lead_time_days,safety_stock,reorder_point,supplier_reliability,demand_volatility,days_of_stock,stockout_risk
+P-0001,Clothing,Store_007,Supplier_C,Fall,45.80,365,8.7,156,12,26.1,130.5,0.945,0.423,17.9,Medium
+P-0002,Electronics,Store_003,Supplier_F,Spring,189.50,365,4.2,78,18,12.6,88.2,0.876,0.287,18.6,Medium
+P-0003,Food,Store_015,Supplier_B,Summer,12.75,45,18.3,245,5,54.9,146.4,0.923,0.654,13.4,Medium
+P-0004,Home & Garden,Store_012,Supplier_H,Winter,78.20,365,6.8,134,14,20.4,115.6,0.891,0.378,19.7,Medium
+P-0005,Sports,Store_001,Supplier_D,Spring,95.60,365,12.4,89,8,37.2,136.4,0.967,0.512,7.2,High
+P-0006,Books,Store_019,Supplier_A,Fall,18.45,365,3.1,167,16,9.3,58.9,0.834,0.198,53.9,Low
+P-0007,Clothing,Store_008,Supplier_E,Winter,67.90,365,14.6,92,11,43.8,204.4,0.912,0.589,6.3,High
+P-0008,Electronics,Store_004,Supplier_J,Spring,245.30,365,3.8,45,20,11.4,87.4,0.856,0.231,11.8,High
+P-0009,Food,Store_002,Supplier_G,Summer,8.95,23,24.8,198,3,74.4,148.8,0.979,0.712,8.0,High
+P-0010,Sports,Store_016,Supplier_C,Spring,125.75,365,9.8,156,13,29.4,156.8,0.903,0.445,15.9,Medium
+P-0011,Home & Garden,Store_011,Supplier_F,Fall,34.60,365,7.2,89,15,21.6,129.6,0.887,0.356,12.4,High
+P-0012,Books,Store_020,Supplier_B,Winter,22.30,365,2.9,134,18,8.7,61.0,0.945,0.165,46.2,Low
+P-0013,Clothing,Store_005,Supplier_H,Fall,89.15,365,11.2,67,9,33.6,134.4,0.923,0.578,6.0,High
+P-0014,Electronics,Store_013,Supplier_D,Spring,167.80,365,5.1,123,17,15.3,102.0,0.868,0.294,24.1,Low
+P-0015,Food,Store_009,Supplier_A,Summer,15.40,67,21.7,178,4,65.1,151.9,0.934,0.623,8.2,High
+P-0016,Sports,Store_006,Supplier_E,Spring,78.90,365,14.8,145,12,44.4,222.0,0.879,0.534,9.8,High
+P-0017,Home & Garden,Store_018,Supplier_J,Winter,56.25,365,5.9,98,16,17.7,112.1,0.956,0.312,16.6,Medium
+P-0018,Books,Store_014,Supplier_G,Fall,19.75,365,3.4,189,14,10.2,58.2,0.891,0.187,55.6,Low
+P-0019,Clothing,Store_003,Supplier_C,Winter,112.60,365,16.3,78,10,48.9,212.9,0.917,0.601,4.8,High
+P-0020,Electronics,Store_017,Supplier_F,Spring,198.45,365,4.6,156,19,13.8,101.2,0.845,0.256,33.9,Low
+P-0021,Food,Store_010,Supplier_B,Summer,11.20,38,19.4,223,6,58.2,174.6,0.962,0.689,11.5,High
+P-0022,Sports,Store_007,Supplier_H,Spring,94.35,365,10.7,134,13,32.1,171.2,0.924,0.467,12.5,High
+P-0023,Home & Garden,Store_001,Supplier_D,Fall,43.80,365,6.3,87,17,18.9,126.0,0.889,0.334,13.8,High
+P-0024,Books,Store_012,Supplier_A,Winter,25.90,365,2.7,167,15,8.1,48.6,0.953,0.148,61.9,Low
+P-0025,Clothing,Store_019,Supplier_E,Fall,73.45,365,13.1,92,8,39.3,144.1,0.906,0.556,7.0,High
+P-0026,Electronics,Store_008,Supplier_J,Spring,223.70,365,3.9,145,21,11.7,93.6,0.837,0.278,37.2,Low
+P-0027,Food,Store_002,Supplier_G,Summer,9.85,52,26.1,198,3,78.3,156.6,0.971,0.734,7.6,High
+P-0028,Sports,Store_016,Supplier_C,Spring,118.20,365,11.9,89,14,35.7,202.3,0.915,0.489,7.5,High
+P-0029,Home & Garden,Store_004,Supplier_F,Winter,67.90,365,5.8,156,12,17.4,87.0,0.883,0.345,26.9,Low
+P-0030,Books,Store_011,Supplier_B,Fall,21.15,365,3.2,134,16,9.6,61.2,0.928,0.172,41.9,Low
+P-0031,Clothing,Store_020,Supplier_H,Winter,98.75,365,15.4,67,11,46.2,215.6,0.941,0.612,4.4,High
+P-0032,Electronics,Store_005,Supplier_D,Spring,174.90,365,4.3,123,18,12.9,90.3,0.864,0.241,28.6,Low
+P-0033,Food,Store_013,Supplier_A,Summer,13.65,74,22.5,178,5,67.5,180.0,0.958,0.651,7.9,High
+P-0034,Sports,Store_009,Supplier_E,Spring,81.40,365,13.6,145,9,40.8,163.2,0.897,0.523,10.7,High
+P-0035,Home & Garden,Store_006,Supplier_J,Fall,49.30,365,7.1,98,15,21.3,127.8,0.912,0.368,13.8,High
+P-0036,Books,Store_018,Supplier_G,Winter,17.85,365,2.8,189,13,8.4,44.8,0.876,0.154,67.5,Low
+P-0037,Clothing,Store_014,Supplier_C,Fall,85.20,365,12.8,78,10,38.4,166.4,0.933,0.567,6.1,High
+P-0038,Electronics,Store_003,Supplier_F,Spring,211.35,365,5.2,156,20,15.6,119.6,0.851,0.289,30.0,Low
+P-0039,Food,Store_017,Supplier_B,Summer,10.95,41,20.8,223,4,62.4,145.6,0.946,0.678,10.7,High
+P-0040,Sports,Store_010,Supplier_H,Spring,103.85,365,9.4,134,12,28.2,140.0,0.908,0.456,14.3,Medium
+P-0041,Home & Garden,Store_007,Supplier_D,Winter,58.75,365,6.7,87,16,20.1,127.3,0.892,0.323,13.0,High
+P-0042,Books,Store_001,Supplier_A,Fall,23.40,365,3.0,167,14,9.0,51.0,0.967,0.143,55.7,Low
+P-0043,Clothing,Store_012,Supplier_E,Winter,76.90,365,14.7,92,7,44.1,147.0,0.925,0.593,6.3,High
+P-0044,Electronics,Store_019,Supplier_J,Spring,188.60,365,4.1,145,19,12.3,90.2,0.842,0.264,35.4,Low
+P-0045,Food,Store_008,Supplier_G,Summer,12.40,58,23.9,198,5,71.7,191.2,0.974,0.721,8.3,High
+P-0046,Sports,Store_002,Supplier_C,Spring,89.95,365,12.3,89,13,36.9,196.8,0.919,0.501,7.2,High
+P-0047,Home & Garden,Store_016,Supplier_F,Fall,41.85,365,8.2,156,11,24.6,114.8,0.885,0.378,19.0,Medium
+P-0048,Books,Store_004,Supplier_B,Winter,20.70,365,2.6,134,17,7.8,52.0,0.952,0.161,51.5,Low
+P-0049,Clothing,Store_011,Supplier_H,Fall,91.30,365,11.8,67,9,35.4,141.6,0.936,0.578,5.7,High
+P-0050,Electronics,Store_020,Supplier_D,Spring,256.80,365,3.7,123,21,11.1,88.8,0.859,0.227,33.2,Low
+P-0051,Food,Store_005,Supplier_A,Summer,14.75,63,25.2,178,3,75.6,151.2,0.961,0.698,7.1,High
+P-0052,Sports,Store_013,Supplier_E,Spring,107.65,365,10.1,145,14,30.3,171.7,0.903,0.478,14.4,Medium
+P-0053,Home & Garden,Store_009,Supplier_J,Winter,52.40,365,5.5,98,18,16.5,115.5,0.887,0.298,17.8,Medium
+P-0054,Books,Store_006,Supplier_G,Fall,18.95,365,3.3,189,15,9.9,59.4,0.918,0.176,57.3,Low
+P-0055,Clothing,Store_018,Supplier_C,Winter,68.80,365,15.9,78,8,47.7,175.0,0.927,0.614,4.9,High
+P-0056,Electronics,Store_014,Supplier_F,Spring,192.25,365,4.8,156,16,14.4,91.2,0.863,0.251,32.5,Low
+P-0057,Food,Store_003,Supplier_B,Summer,11.85,47,21.3,223,6,63.9,191.7,0.955,0.663,10.5,High
+P-0058,Sports,Store_017,Supplier_H,Spring,96.40,365,11.6,134,12,34.8,174.0,0.911,0.467,11.6,High
+P-0059,Home & Garden,Store_010,Supplier_D,Fall,46.95,365,7.8,87,13,23.4,124.8,0.896,0.356,11.2,High
+P-0060,Books,Store_007,Supplier_A,Winter,26.85,365,2.5,167,16,7.5,47.5,0.943,0.139,66.8,Low
+P-0061,Clothing,Store_001,Supplier_E,Fall,82.55,365,13.4,92,10,40.2,174.2,0.921,0.587,6.9,High
+P-0062,Electronics,Store_012,Supplier_J,Spring,204.70,365,4.4,145,20,13.2,101.2,0.848,0.273,33.0,Low
+P-0063,Food,Store_019,Supplier_G,Summer,9.60,35,24.5,198,4,73.5,171.5,0.968,0.735,8.1,High
+P-0064,Sports,Store_008,Supplier_C,Spring,113.90,365,9.8,89,15,29.4,176.4,0.914,0.489,9.1,High
+P-0065,Home & Garden,Store_002,Supplier_F,Winter,61.20,365,6.1,156,14,18.3,103.7,0.881,0.334,25.6,Low
+P-0066,Books,Store_016,Supplier_B,Fall,19.40,365,3.1,134,12,9.3,46.5,0.949,0.168,43.2,Low
+P-0067,Clothing,Store_004,Supplier_H,Winter,74.85,365,16.2,67,7,48.6,162.0,0.938,0.601,4.1,High
+P-0068,Electronics,Store_011,Supplier_D,Spring,178.95,365,5.0,123,17,15.0,100.0,0.871,0.284,24.6,Low
+P-0069,Food,Store_020,Supplier_A,Summer,13.25,56,22.1,178,5,66.3,176.8,0.957,0.672,8.1,High
+P-0070,Sports,Store_005,Supplier_E,Spring,91.75,365,12.7,145,11,38.1,177.8,0.899,0.512,11.4,High
+P-0071,Home & Garden,Store_013,Supplier_J,Fall,44.60,365,8.6,98,16,25.8,163.4,0.909,0.389,11.4,High
+P-0072,Books,Store_009,Supplier_G,Winter,21.90,365,2.9,189,18,8.7,61.0,0.892,0.157,65.2,Low
+P-0073,Clothing,Store_006,Supplier_C,Fall,87.40,365,12.1,78,9,36.3,145.2,0.931,0.556,6.4,High
+P-0074,Electronics,Store_018,Supplier_F,Spring,219.80,365,3.6,156,19,10.8,79.2,0.856,0.246,43.3,Low
+P-0075,Food,Store_014,Supplier_B,Summer,10.35,42,20.4,223,3,61.2,122.4,0.965,0.689,10.9,High
+P-0076,Sports,Store_003,Supplier_H,Spring,99.20,365,10.9,134,13,32.7,174.4,0.906,0.478,12.3,High
+P-0077,Home & Garden,Store_017,Supplier_D,Winter,55.85,365,5.7,87,15,17.1,102.6,0.888,0.312,15.3,Medium
+P-0078,Books,Store_010,Supplier_A,Fall,24.15,365,3.2,167,14,9.6,54.4,0.951,0.148,52.2,Low
+P-0079,Clothing,Store_007,Supplier_E,Winter,71.95,365,14.5,92,8,43.5,159.5,0.923,0.593,6.3,High
+P-0080,Electronics,Store_001,Supplier_J,Spring,195.40,365,4.7,145,18,14.1,98.7,0.844,0.267,30.9,Low

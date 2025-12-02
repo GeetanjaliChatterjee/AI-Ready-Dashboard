@@ -1,0 +1,81 @@
+ticket_id,priority,category,channel,assigned_agent,customer_tier,customer_tenure_months,attachments_count,follow_up_count,resolution_hours,customer_satisfaction,needs_escalation
+T-0001,Medium,Technical,Email,Agent_3,Basic,23,2,1,12.4,4,FALSE
+T-0002,Low,Billing,Chat,Agent_7,Pro,8,0,0,3.2,5,FALSE
+T-0003,High,Bug Report,Phone,Agent_12,Enterprise,45,4,3,18.7,3,TRUE
+T-0004,Critical,Technical,Web Portal,Agent_5,Enterprise,67,1,5,2.8,2,TRUE
+T-0005,Medium,Account,Email,Agent_15,Basic,12,1,2,8.9,4,FALSE
+T-0006,Low,Feature Request,Chat,Agent_2,Pro,34,0,1,4.1,5,FALSE
+T-0007,High,Technical,Phone,Agent_9,Basic,5,3,4,28.6,2,TRUE
+T-0008,Medium,Billing,Email,Agent_11,Pro,56,2,1,9.8,4,FALSE
+T-0009,Critical,Bug Report,Phone,Agent_1,Enterprise,89,2,6,1.5,1,TRUE
+T-0010,Low,Account,Web Portal,Agent_6,Basic,19,0,0,2.8,5,FALSE
+T-0011,High,Technical,Email,Agent_4,Pro,78,5,2,22.3,3,TRUE
+T-0012,Medium,Feature Request,Chat,Agent_8,Basic,41,1,3,11.7,3,FALSE
+T-0013,Low,Billing,Email,Agent_13,Enterprise,23,0,1,3.5,4,FALSE
+T-0014,Critical,Technical,Phone,Agent_10,Pro,12,3,7,3.2,2,TRUE
+T-0015,Medium,Bug Report,Web Portal,Agent_14,Basic,67,2,2,14.6,4,FALSE
+T-0016,High,Account,Email,Agent_3,Enterprise,45,4,1,19.8,3,TRUE
+T-0017,Low,Feature Request,Chat,Agent_7,Basic,33,0,0,2.9,5,FALSE
+T-0018,Medium,Technical,Phone,Agent_12,Pro,58,1,4,16.4,3,TRUE
+T-0019,Critical,Billing,Email,Agent_5,Enterprise,91,2,5,2.1,2,TRUE
+T-0020,Low,Bug Report,Web Portal,Agent_15,Basic,7,0,1,4.2,4,FALSE
+T-0021,High,Technical,Chat,Agent_2,Pro,76,3,3,24.1,2,TRUE
+T-0022,Medium,Account,Email,Agent_9,Basic,29,2,2,13.8,4,FALSE
+T-0023,Low,Feature Request,Phone,Agent_11,Enterprise,52,0,0,3.1,5,FALSE
+T-0024,Critical,Bug Report,Web Portal,Agent_1,Pro,14,4,6,2.9,1,TRUE
+T-0025,Medium,Technical,Email,Agent_6,Basic,38,1,1,10.7,4,FALSE
+T-0026,High,Billing,Chat,Agent_4,Enterprise,83,2,4,21.5,3,TRUE
+T-0027,Low,Account,Phone,Agent_8,Basic,16,0,0,3.8,5,FALSE
+T-0028,Medium,Feature Request,Email,Agent_13,Pro,64,3,2,12.9,3,FALSE
+T-0029,Critical,Technical,Web Portal,Agent_10,Enterprise,72,1,8,1.8,2,TRUE
+T-0030,Low,Bug Report,Chat,Agent_14,Basic,25,0,1,4.5,4,FALSE
+T-0031,High,Account,Email,Agent_3,Pro,49,5,2,26.7,2,TRUE
+T-0032,Medium,Billing,Phone,Agent_7,Basic,11,2,3,15.3,3,FALSE
+T-0033,Low,Technical,Web Portal,Agent_12,Enterprise,87,0,0,2.7,5,FALSE
+T-0034,Critical,Feature Request,Email,Agent_5,Pro,36,3,7,3.4,2,TRUE
+T-0035,Medium,Bug Report,Chat,Agent_15,Basic,55,1,1,9.6,4,FALSE
+T-0036,High,Technical,Phone,Agent_2,Enterprise,18,4,5,23.8,3,TRUE
+T-0037,Low,Account,Email,Agent_9,Basic,71,0,0,3.3,5,FALSE
+T-0038,Medium,Billing,Web Portal,Agent_11,Pro,42,2,2,11.4,4,FALSE
+T-0039,Critical,Bug Report,Chat,Agent_1,Enterprise,95,2,6,2.6,1,TRUE
+T-0040,Low,Feature Request,Phone,Agent_6,Basic,8,0,1,4.1,4,FALSE
+T-0041,High,Technical,Email,Agent_4,Pro,63,3,3,20.9,3,TRUE
+T-0042,Medium,Account,Web Portal,Agent_8,Basic,27,1,4,17.2,3,TRUE
+T-0043,Low,Billing,Chat,Agent_13,Enterprise,81,0,0,2.9,5,FALSE
+T-0044,Critical,Technical,Phone,Agent_10,Pro,15,4,5,3.1,2,TRUE
+T-0045,Medium,Bug Report,Email,Agent_14,Basic,46,2,1,13.7,4,FALSE
+T-0046,High,Feature Request,Web Portal,Agent_3,Enterprise,59,3,2,22.4,3,TRUE
+T-0047,Low,Account,Chat,Agent_7,Basic,22,0,0,3.6,5,FALSE
+T-0048,Medium,Technical,Phone,Agent_12,Pro,74,1,3,14.8,3,FALSE
+T-0049,Critical,Billing,Email,Agent_5,Enterprise,93,2,7,1.9,2,TRUE
+T-0050,Low,Bug Report,Web Portal,Agent_15,Basic,13,0,1,4.3,4,FALSE
+T-0051,High,Account,Chat,Agent_2,Pro,68,4,4,25.6,2,TRUE
+T-0052,Medium,Feature Request,Phone,Agent_9,Basic,35,2,2,12.1,4,FALSE
+T-0053,Low,Technical,Email,Agent_11,Enterprise,88,0,0,3.2,5,FALSE
+T-0054,Critical,Bug Report,Web Portal,Agent_1,Pro,21,3,6,2.7,1,TRUE
+T-0055,Medium,Billing,Chat,Agent_6,Basic,57,1,1,10.9,4,FALSE
+T-0056,High,Technical,Phone,Agent_4,Enterprise,44,5,3,21.7,3,TRUE
+T-0057,Low,Account,Email,Agent_8,Basic,9,0,0,3.4,5,FALSE
+T-0058,Medium,Feature Request,Web Portal,Agent_13,Pro,66,2,4,16.5,3,TRUE
+T-0059,Critical,Bug Report,Chat,Agent_10,Enterprise,79,1,8,2.3,2,TRUE
+T-0060,Low,Technical,Phone,Agent_14,Basic,31,0,1,4.6,4,FALSE
+T-0061,High,Billing,Email,Agent_3,Pro,53,3,2,19.2,3,TRUE
+T-0062,Medium,Account,Web Portal,Agent_7,Basic,17,2,3,15.7,3,FALSE
+T-0063,Low,Feature Request,Chat,Agent_12,Enterprise,84,0,0,2.8,5,FALSE
+T-0064,Critical,Technical,Phone,Agent_5,Pro,26,4,7,3.5,2,TRUE
+T-0065,Medium,Bug Report,Email,Agent_15,Basic,62,1,1,11.3,4,FALSE
+T-0066,High,Account,Web Portal,Agent_2,Enterprise,48,3,5,24.9,2,TRUE
+T-0067,Low,Billing,Chat,Agent_9,Basic,14,0,0,3.7,5,FALSE
+T-0068,Medium,Technical,Phone,Agent_11,Pro,75,2,2,13.4,4,FALSE
+T-0069,Critical,Feature Request,Email,Agent_1,Enterprise,92,2,6,2.1,1,TRUE
+T-0070,Low,Bug Report,Web Portal,Agent_6,Basic,39,0,1,4.4,4,FALSE
+T-0071,High,Technical,Chat,Agent_4,Pro,61,4,3,23.1,3,TRUE
+T-0072,Medium,Account,Phone,Agent_8,Basic,28,1,4,18.6,3,TRUE
+T-0073,Low,Billing,Email,Agent_13,Enterprise,86,0,0,3.1,5,FALSE
+T-0074,Critical,Bug Report,Web Portal,Agent_10,Pro,19,3,5,2.8,2,TRUE
+T-0075,Medium,Feature Request,Chat,Agent_14,Basic,54,2,1,12.6,4,FALSE
+T-0076,High,Technical,Phone,Agent_3,Enterprise,41,5,2,20.4,3,TRUE
+T-0077,Low,Account,Email,Agent_7,Basic,6,0,0,3.9,5,FALSE
+T-0078,Medium,Billing,Web Portal,Agent_12,Pro,69,1,3,15.1,3,FALSE
+T-0079,Critical,Bug Report,Chat,Agent_5,Enterprise,97,2,8,1.7,2,TRUE
+T-0080,Low,Feature Request,Phone,Agent_15,Basic,24,0,1,4.7,4,FALSE

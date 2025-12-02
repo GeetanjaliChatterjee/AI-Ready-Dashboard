@@ -1,0 +1,81 @@
+appointment_id,department,appointment_type,insurance_type,day_of_week,appointment_hour,patient_age,distance_miles,days_scheduled_ahead,previous_appointments,previous_no_shows,historical_no_show_rate,copay_amount,patient_showed,wait_time_minutes,satisfaction_score
+A-00001,General Medicine,Consultation,Private,Tuesday,10,45,12.3,15,8,1,0.125,25.50,TRUE,18.7,4
+A-00002,Cardiology,Follow-up,Medicare,Friday,14,67,8.9,42,15,3,0.200,15.75,FALSE,0.0,
+A-00003,Pediatrics,Diagnostic,Medicaid,Wednesday,9,28,25.6,7,3,0,0.000,5.00,TRUE,32.4,3
+A-00004,Orthopedics,Surgery,Private,Monday,13,52,18.1,89,12,2,0.167,45.00,TRUE,12.9,5
+A-00005,Neurology,Therapy,Self-Pay,Thursday,11,39,6.7,21,5,1,0.200,125.00,FALSE,0.0,
+A-00006,General Medicine,Follow-up,Private,Tuesday,15,61,14.2,8,18,2,0.111,20.25,TRUE,25.8,4
+A-00007,Cardiology,Consultation,Medicare,Friday,8,73,31.5,65,22,7,0.318,12.50,FALSE,0.0,
+A-00008,Pediatrics,Follow-up,Private,Wednesday,16,34,9.8,12,6,0,0.000,30.75,TRUE,21.3,5
+A-00009,Orthopedics,Diagnostic,Medicaid,Monday,10,48,22.4,28,9,1,0.111,8.25,TRUE,45.2,2
+A-00010,Neurology,Consultation,Private,Thursday,12,55,17.3,33,11,3,0.273,35.50,TRUE,19.6,4
+A-00011,General Medicine,Therapy,Medicare,Tuesday,14,69,5.4,19,20,4,0.200,10.00,TRUE,38.1,3
+A-00012,Cardiology,Surgery,Private,Friday,9,58,26.7,78,16,2,0.125,40.00,TRUE,8.7,5
+A-00013,Pediatrics,Consultation,Medicaid,Wednesday,11,25,13.9,45,4,1,0.250,2.50,FALSE,0.0,
+A-00014,Orthopedics,Follow-up,Self-Pay,Monday,15,43,29.3,156,14,5,0.357,185.75,FALSE,0.0,
+A-00015,Neurology,Diagnostic,Private,Thursday,13,36,11.6,24,7,0,0.000,28.25,TRUE,27.9,4
+A-00016,General Medicine,Consultation,Medicare,Tuesday,8,71,19.8,52,19,3,0.158,8.75,TRUE,42.3,3
+A-00017,Cardiology,Follow-up,Private,Friday,16,49,7.2,16,13,1,0.077,22.50,TRUE,15.4,5
+A-00018,Pediatrics,Surgery,Medicaid,Wednesday,10,31,34.1,93,5,2,0.400,6.00,FALSE,0.0,
+A-00019,Orthopedics,Therapy,Private,Monday,12,66,15.7,37,17,4,0.235,38.75,TRUE,29.6,4
+A-00020,Neurology,Consultation,Medicare,Thursday,14,42,23.8,41,8,1,0.125,18.50,TRUE,33.2,3
+A-00021,General Medicine,Diagnostic,Private,Tuesday,9,57,8.1,29,21,2,0.095,31.00,TRUE,22.5,4
+A-00022,Cardiology,Follow-up,Self-Pay,Friday,11,64,41.2,67,24,8,0.333,210.50,FALSE,0.0,
+A-00023,Pediatrics,Consultation,Medicaid,Wednesday,15,29,16.4,18,6,0,0.000,4.25,TRUE,19.8,5
+A-00024,Orthopedics,Surgery,Private,Monday,13,51,27.6,102,15,3,0.200,42.25,TRUE,11.3,5
+A-00025,Neurology,Therapy,Medicare,Thursday,8,38,12.9,26,9,2,0.222,14.75,TRUE,35.7,3
+A-00026,General Medicine,Follow-up,Private,Tuesday,16,63,21.5,13,22,3,0.136,19.50,TRUE,28.4,4
+A-00027,Cardiology,Consultation,Medicaid,Friday,10,72,6.3,58,25,6,0.240,7.50,TRUE,47.1,2
+A-00028,Pediatrics,Diagnostic,Private,Wednesday,12,26,38.9,35,3,1,0.333,27.75,FALSE,0.0,
+A-00029,Orthopedics,Follow-up,Self-Pay,Monday,14,44,14.7,119,12,4,0.333,195.25,FALSE,0.0,
+A-00030,Neurology,Surgery,Medicare,Thursday,9,59,24.3,48,10,1,0.100,16.25,TRUE,13.8,4
+A-00031,General Medicine,Consultation,Private,Tuesday,11,46,9.5,22,16,1,0.063,26.50,TRUE,24.7,4
+A-00032,Cardiology,Therapy,Medicaid,Friday,15,68,32.7,74,18,5,0.278,9.00,FALSE,0.0,
+A-00033,Pediatrics,Follow-up,Private,Wednesday,13,33,17.8,11,7,0,0.000,32.25,TRUE,16.9,5
+A-00034,Orthopedics,Consultation,Medicare,Monday,8,50,28.1,86,19,4,0.211,11.50,FALSE,0.0,
+A-00035,Neurology,Diagnostic,Self-Pay,Thursday,16,41,13.4,31,11,2,0.182,142.75,TRUE,39.6,3
+A-00036,General Medicine,Surgery,Private,Tuesday,10,62,25.9,95,23,3,0.130,44.00,TRUE,9.2,5
+A-00037,Cardiology,Follow-up,Medicare,Friday,12,75,7.8,17,26,7,0.269,13.25,TRUE,41.8,3
+A-00038,Pediatrics,Consultation,Medicaid,Wednesday,14,27,19.6,49,4,1,0.250,3.75,FALSE,0.0,
+A-00039,Orthopedics,Therapy,Private,Monday,9,47,36.4,127,14,5,0.357,39.50,FALSE,0.0,
+A-00040,Neurology,Diagnostic,Self-Pay,Thursday,11,35,11.2,25,8,0,0.000,118.25,TRUE,26.3,4
+A-00041,General Medicine,Follow-up,Private,Tuesday,15,59,22.7,14,20,2,0.100,21.75,TRUE,31.5,4
+A-00042,Cardiology,Consultation,Medicare,Friday,13,70,29.4,61,21,5,0.238,9.75,TRUE,44.7,2
+A-00043,Pediatrics,Surgery,Medicaid,Wednesday,8,30,15.1,87,5,2,0.400,8.50,FALSE,0.0,
+A-00044,Orthopedics,Follow-up,Private,Monday,16,53,33.8,108,16,3,0.188,36.25,TRUE,28.9,4
+A-00045,Neurology,Consultation,Self-Pay,Thursday,10,40,8.7,32,9,1,0.111,156.50,TRUE,22.1,4
+A-00046,General Medicine,Therapy,Medicare,Tuesday,12,65,26.3,27,22,4,0.182,17.00,TRUE,36.8,3
+A-00047,Cardiology,Diagnostic,Private,Friday,14,56,12.6,19,17,1,0.059,29.25,TRUE,18.4,5
+A-00048,Pediatrics,Follow-up,Medicaid,Wednesday,9,32,41.7,51,6,2,0.333,5.25,FALSE,0.0,
+A-00049,Orthopedics,Surgery,Self-Pay,Monday,11,48,16.9,115,13,4,0.308,201.75,FALSE,0.0,
+A-00050,Neurology,Consultation,Private,Thursday,15,37,24.1,28,10,2,0.200,33.75,TRUE,29.7,4
+A-00051,General Medicine,Follow-up,Medicare,Tuesday,13,67,18.5,15,24,6,0.250,12.50,TRUE,43.2,3
+A-00052,Cardiology,Therapy,Private,Friday,8,61,35.2,76,19,3,0.158,41.50,TRUE,34.6,3
+A-00053,Pediatrics,Consultation,Medicaid,Wednesday,16,28,10.4,44,3,0,0.000,6.75,TRUE,17.8,5
+A-00054,Orthopedics,Diagnostic,Self-Pay,Monday,12,45,27.8,92,15,5,0.333,189.50,FALSE,0.0,
+A-00055,Neurology,Surgery,Medicare,Thursday,14,54,14.3,36,11,1,0.091,15.75,TRUE,12.5,4
+A-00056,General Medicine,Consultation,Private,Tuesday,9,43,21.9,23,18,2,0.111,24.25,TRUE,25.3,4
+A-00057,Cardiology,Follow-up,Medicaid,Friday,11,69,8.9,68,20,4,0.200,8.25,FALSE,0.0,
+A-00058,Pediatrics,Therapy,Private,Wednesday,15,34,38.6,39,7,1,0.143,35.00,TRUE,41.9,3
+A-00059,Orthopedics,Consultation,Self-Pay,Monday,13,52,13.7,109,17,6,0.353,176.25,FALSE,0.0,
+A-00060,Neurology,Diagnostic,Medicare,Thursday,8,39,29.5,29,12,2,0.167,19.50,TRUE,37.4,3
+A-00061,General Medicine,Surgery,Private,Tuesday,16,58,16.8,97,25,3,0.120,47.75,TRUE,8.9,5
+A-00062,Cardiology,Follow-up,Medicaid,Friday,10,74,23.4,20,27,8,0.296,4.50,TRUE,48.6,2
+A-00063,Pediatrics,Consultation,Self-Pay,Wednesday,12,31,11.9,55,4,1,0.250,243.00,FALSE,0.0,
+A-00064,Orthopedics,Therapy,Private,Monday,14,49,34.1,124,16,4,0.250,38.00,TRUE,32.7,4
+A-00065,Neurology,Follow-up,Medicare,Thursday,9,36,9.2,33,8,0,0.000,22.25,TRUE,21.6,4
+A-00066,General Medicine,Consultation,Private,Tuesday,11,64,25.7,18,21,3,0.143,23.50,TRUE,33.9,3
+A-00067,Cardiology,Diagnostic,Self-Pay,Friday,15,57,17.5,72,18,2,0.111,198.75,FALSE,0.0,
+A-00068,Pediatrics,Surgery,Medicaid,Wednesday,13,29,42.3,89,5,2,0.400,7.25,FALSE,0.0,
+A-00069,Orthopedics,Follow-up,Private,Monday,8,46,12.1,111,14,5,0.357,34.75,TRUE,27.8,4
+A-00070,Neurology,Consultation,Medicare,Thursday,16,60,28.9,37,13,3,0.231,17.00,TRUE,45.1,2
+A-00071,General Medicine,Therapy,Private,Tuesday,10,41,19.3,24,19,1,0.053,31.25,TRUE,28.4,4
+A-00072,Cardiology,Follow-up,Medicaid,Friday,12,71,6.7,63,22,6,0.273,6.00,TRUE,42.7,3
+A-00073,Pediatrics,Diagnostic,Self-Pay,Wednesday,14,33,33.5,47,6,1,0.167,264.50,FALSE,0.0,
+A-00074,Orthopedics,Surgery,Private,Monday,9,51,15.4,103,12,2,0.167,43.25,TRUE,10.7,5
+A-00075,Neurology,Therapy,Medicare,Thursday,11,38,26.8,30,9,2,0.222,20.75,TRUE,34.2,3
+A-00076,General Medicine,Follow-up,Private,Tuesday,15,66,22.1,16,23,4,0.174,20.00,TRUE,37.6,3
+A-00077,Cardiology,Consultation,Self-Pay,Friday,13,63,39.7,79,24,7,0.292,186.25,FALSE,0.0,
+A-00078,Pediatrics,Follow-up,Medicaid,Wednesday,8,26,14.6,52,3,0,0.000,3.25,TRUE,16.4,5
+A-00079,Orthopedics,Diagnostic,Private,Monday,16,48,31.2,96,15,4,0.267,37.50,FALSE,0.0,
+A-00080,Neurology,Surgery,Medicare,Thursday,12,55,18.7,41,10,1,0.100,14.25,TRUE,11.9,4
