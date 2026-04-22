@@ -902,4 +902,6 @@ def update_recommendations_tab(analysis_results):
 
 if __name__ == "__main__":
     print("Starting Enhanced Project Feasibility Dashboard at http://localhost:8050")
-    app.run(debug=True, host='127.0.0.1', port=8050)
+  import os
+port = int(os.environ.get("PORT", 8050))
+app.run(debug=False, host='0.0.0.0', port=port)
